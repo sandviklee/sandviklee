@@ -10,7 +10,7 @@
 <br />
 <br />
 
-**languages and tools i use:**  
+**Languages and Tools I use:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://dev.java/assets/images/java-logo-vert-blk.png"></code>
