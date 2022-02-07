@@ -10,5 +10,5 @@
 [![Demo CountPages alpha](https://media.discordapp.net/attachments/531234521488556035/940207961064763392/vectors_gif.gif)](https://www.youtube.com/watch?v=VyOiBPF7vo8)
 
 
--first Manim "animation". Click on it to see it on Youtube. (Source code in my Python repository)
+-My first Manim python animation. Click on it to see it on Youtube. (Source code in my Python-Projects repository)
 
