@@ -1,6 +1,6 @@
 ### Hey there Peeps! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Watch the video](https://i.gyazo.com/b802287dee454a40c3683e64b27b177c.png)](https://youtu.be/VyOiBPF7vo8)
+[![Demo CountPages alpha](https://media.discordapp.net/attachments/531234521488556035/940207961064763392/vectors_gif.gif](https://www.youtube.com/watch?v=VyOiBPF7vo8)
 
 
 
