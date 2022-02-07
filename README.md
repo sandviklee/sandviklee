@@ -12,9 +12,9 @@
 
 **languages and tools i use:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://dev.java/assets/images/java-logo-vert-blk.png"></code>
+<code><img height="40" src="https://p1.hiclipart.com/preview/678/218/574/logo-logo-git-line-cheat-sheet-signage-cheating-mug-png-clipart.jpg"></code>
 
 - 🔭 I’m currently working on Java projects.
 - 🌱 I’m currently learning object oriented programming in Java and 
