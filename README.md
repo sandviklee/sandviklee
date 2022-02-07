@@ -15,6 +15,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://dev.java/assets/images/java-logo-vert-blk.png"></code>
 <code><img height="40" src="https://p1.hiclipart.com/preview/678/218/574/logo-logo-git-line-cheat-sheet-signage-cheating-mug-png-clipart.jpg"></code>
+<br />
+<br />
 
 - 🔭 I’m currently working on Java projects.
 - 🌱 I’m currently learning object oriented programming in Java and 
@@ -22,7 +24,6 @@
 - 👯 I’m looking to collaborate on AI stuffs, hopefully with Sigurd-Pettersen in the future!
 - 📫 How to reach me: simonsle@ntnu.no
 
-<br />
 <br />
 
 [![](https://media.discordapp.net/attachments/531234521488556035/940214641349505044/ezgif.com-gif-maker.gif)](https://youtu.be/R367sbv2TAU)
