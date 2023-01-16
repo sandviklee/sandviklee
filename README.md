@@ -21,7 +21,7 @@
 <br />
 
 - 🔭 I’m currently developing my own website, to show off my work.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning Javascript and C.
 - 👯 I’m looking to collaborate on AI stuffs, hopefully with [Sigurd-Pettersen](https://github.com/Sigurd-Pettersen) in the future!
 - 📫 How to reach me: simonsle@stud.ntnu.no
 
