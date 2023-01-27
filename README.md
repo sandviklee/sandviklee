@@ -1,6 +1,6 @@
 ### Hey there Peeps! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/SaiYueWasTaken">
+<a href="https://twitter.com/sandvikleedev">
   <img align="left" alt="SaiYueWasTaken | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/simon-sandvik-lee-2b620722b/">
@@ -16,7 +16,8 @@
 <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"></code>
 <code><img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></code>
-<code><img height="40" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png"></code>
+<code><img height="40" src="https://cdn.345tool.com/public/logos/css-formatter-logo.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
 <br />
 <br />
 
