@@ -24,7 +24,7 @@
 - 🔭 I’m currently developing my own portfolio website, to show off my work.
 - 🌱 I’m currently learning Javascript and C.
 - 👯 I’m looking to collaborate on AI stuffs, hopefully with [Sigurd-Pettersen](https://github.com/Sigurd-Pettersen) in the future!
-- 📫 How to reach me: simonsle@stud.ntnu.no
+- 📫 How to reach me: simonsle@stud.ntnu.no or simon@sandviklee.dev
 
 <br />
 
