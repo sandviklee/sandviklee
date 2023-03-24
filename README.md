@@ -34,7 +34,6 @@
 - 💬 My first Manim Python animation. Click on it to see it on Youtube. **([Source code in my Python-Projects repository](https://github.com/SaiYueWasTaken/Python-Projects/blob/main/Manim/Project.py))**
 
 ---
-My Github Stats:
 <div align="center"></img>
   <a href="https://github.com/sandviklee#gh-dark-mode-only"></img>
     <div>
