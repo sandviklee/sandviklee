@@ -33,3 +33,19 @@
 
 - 💬 My first Manim Python animation. Click on it to see it on Youtube. **([Source code in my Python-Projects repository](https://github.com/SaiYueWasTaken/Python-Projects/blob/main/Manim/Project.py))**
 
+---
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+<div align="center"></img>
+  <a href="https://github.com/sandviklee#gh-dark-mode-only"></img>
+    <div>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SverreNystad&show_icons=true&border_color=414868&theme=tokyonight"/>&nbsp;
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SverreNystad&layout=compact&border_color=414868&theme=tokyonight"/>&nbsp;
+    </div>
+  </a>
+  <a href="https://github.com/sandviklee#gh-light-mode-only"></img>
+    <div>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sandviklee&show_icons=true"/>&nbsp;
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandviklee&layout=compact"/>&nbsp;
+    </div>
+  </a>
+</div>
