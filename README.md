@@ -34,18 +34,4 @@
 
 - 💬 My first Manim Python animation. Click on it to see it on Youtube. **([Source code in my Python-Projects repository](https://github.com/SaiYueWasTaken/Python-Projects/blob/main/Manim/Project.py))**
 
----
-<div align="center"></img>
-  <a href="https://github.com/sandviklee#gh-dark-mode-only"></img>
-    <div>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sandviklee&show_icons=true&border_color=414868&theme=tokyonight"/>&nbsp;
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandviklee&layout=compact&border_color=414868&theme=tokyonight"/>&nbsp;
-    </div>
-  </a>
-  <a href="https://github.com/sandviklee#gh-light-mode-only"></img>
-    <div>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sandviklee&show_icons=true"/>&nbsp;
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandviklee&layout=compact"/>&nbsp;
-    </div>
-  </a>
-</div>
+
