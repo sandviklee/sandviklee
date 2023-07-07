@@ -22,7 +22,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently developing my own portfolio website and working at @Kateter
+- 🔭 I’m currently developing my own portfolio website and working at [Kateter](https://www.kateter.no/)!
 - 🌱 I’m currently learning React and C.
 - 👯 I’m looking to collaborate on AI stuffs, hopefully with [Sigurd-Pettersen](https://github.com/Serphyus) in the future!
 - 📫 How to reach me: simonsle@stud.ntnu.no
