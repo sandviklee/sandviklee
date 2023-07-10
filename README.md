@@ -1,7 +1,7 @@
 ### Hey there Peeps! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/sandvikleedev">
-  <img align="left" alt="SaiYueWasTaken | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="SaiYueWasTaken | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_2012_logo.svg/2048px-Twitter_2012_logo.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/simon-sandvik-lee-2b620722b/">
   <img align="left" alt="Simon's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
