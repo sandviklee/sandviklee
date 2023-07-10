@@ -4,7 +4,7 @@
   <img align="left" alt="SaiYueWasTaken | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_2012_logo.svg/2048px-Twitter_2012_logo.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/simon-sandvik-lee-2b620722b/">
-  <img align="left" alt="Simon's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Simon's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 
 <br />
