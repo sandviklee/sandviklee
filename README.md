@@ -1,4 +1,4 @@
-### Hey there Peeps! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there Peeps of the www! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/sandvikleedev">
   <img align="left" alt="SaiYueWasTaken | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_2012_logo.svg/2048px-Twitter_2012_logo.svg.png" />
@@ -22,10 +22,10 @@
 <br />
 <br />
 
-- 🔭 I’m currently developing my own portfolio website and working at [Kateter](https://www.kateter.no/)!
-- 🌱 I’m currently learning React and C.
-- 👯 I’m looking to collaborate on AI stuffs, hopefully with [Sigurd-Pettersen](https://github.com/Serphyus) in the future!
-- 📫 How to reach me: simonsle@stud.ntnu.no
+- 🔭 I’m currently developing my own portfolio website, developing [Cogito NTNU](https://www.cogito-ntnu.no/) and working at [Kateter](https://www.kateter.no/)!
+- 🌱 I’m currently learning React JS and C.
+- 👯 I’m looking to work on Mineraria 2 Java Edition in the future!
+- 📫 How to reach me: simonsandviklee@gmail.com
 
 <br />
 
