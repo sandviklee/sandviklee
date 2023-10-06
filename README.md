@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently developing my own portfolio website, developing [Cogito NTNU](https://www.cogito-ntnu.no/) and working at [Kateter](https://www.kateter.no/)!
 - 🌱 I’m currently learning React JS and C.
-- 👯 I’m looking to work on Mineraria 2 Java Edition in the future!
+- 👯 I’m looking to work on Mineraria 2 Java Edition in the future, and work with [Sverre Nystad](https://www.github.com/SverreNystad)!
 - 📫 How to reach me: simonsandviklee@gmail.com
 
 <br />
