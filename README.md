@@ -36,7 +36,7 @@
 [![](https://media.discordapp.net/attachments/531234521488556035/940214641349505044/ezgif.com-gif-maker.gif)](https://www.youtube.com/watch?v=u7RsPwJnFnA)
 
 - 💬 My first Manim Python animation. Click on it to see it on Youtube. **([Source code in my Python-Projects repository](https://github.com/SaiYueWasTaken/Python-Projects/blob/main/Manim/Project.py))**
-- 
+
 <a href="https://github.com/sandviklee#gh-dark-mode-only"></img>
   <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sandviklee&show_icons=true&border_color=414868&theme=tokyonight"/>&nbsp;
