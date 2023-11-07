@@ -17,9 +17,9 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-plain.svg"></code>
 <code><img height="40" src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"></code>
 <code><img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="40" src="https://kubernetes.io/images/favicon.png"></code>
 <code><img height="40" src="https://www.svgrepo.com/show/353657/django-icon.svg"></code>
