@@ -16,7 +16,7 @@
 <br />
 
 💼 I’m currently CTO @ [Tibby](https://www.github.com/tibby-technologies). Web Team lead @ [Cogito NTNU](https://www.cogito-ntnu.no/) and part time fullstack @ [Kateter](https://www.kateter.no/)<br/>
-👷 I'm currently exploring socket programming with Zig & graphics programming with Go <br/>
+👷 I'm currently exploring socket programming and interpreters/compilers with Zig & graphics programming with Go <br/>
 ⛏️ I love to collab on projects, hit me up!<br/>
 📫 Reach me: simon.lee@tibby.pet <br/>
 <br/>
